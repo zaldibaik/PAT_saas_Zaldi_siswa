@@ -13,11 +13,8 @@ import Fitur4 from "./Component/fitur4";
 function App() {
   return (
     <div>
-      <div className="relative overflow-x-auto shadow-md sm:rounded-lg mx-auto ">
         <Myheader />
-
         <div className="mt-5 pr-5">
-          <Card>
             <div className="mx-auto w-100 h-50 pt-5">
               <div className="pt-5">
                 <Fitur1 />
@@ -35,9 +32,7 @@ function App() {
                 </div>
               </div>
             </div>
-          </Card>
         </div>
-      </div>
       <div className="pt-5">
         <Myfooter />
       </div>
