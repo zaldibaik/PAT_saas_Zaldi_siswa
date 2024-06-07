@@ -1,8 +1,8 @@
 import { Button, Card } from "flowbite-react";
 import React, { Component } from "react";
-import Slider from "react-slick"; // Import Slider from react-slick
-import "slick-carousel/slick/slick.css"; // Import slick-carousel base styles
-import "slick-carousel/slick/slick-theme.css"; // Import slick-carousel theme styles
+import Slider from "react-slick";
+import "slick-carousel/slick/slick.css"; 
+import "slick-carousel/slick/slick-theme.css"; 
 import "./style.css";
 import profil from "./assets/profil.jpg";
 import ibuulfa from "./assets/ibuulfa.jpg";
@@ -78,7 +78,7 @@ class Fitur3 extends Component {
             </div>
           </Slider>
 
-          <div className="col">
+          <div className="col-contact">
             <section>
               <div className="shadow">
                 <div className="row">

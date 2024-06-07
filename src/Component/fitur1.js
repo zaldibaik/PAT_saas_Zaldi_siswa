@@ -1,4 +1,4 @@
-
+import './style.css';
 import React, { Component } from "react";
 
 class Fitur1 extends Component {
@@ -27,7 +27,7 @@ class Fitur1 extends Component {
           </div>
           <div className="col order-5 text-center">
             <iframe
-              className="w-100 h-75"
+              className="image w-100 h-75"
               src="https://www.youtube.com/embed/Nulb66XCXJ0?si=WanfLZHnX-bhofLi"
               title="YouTube video player"
               frameborder="0"
