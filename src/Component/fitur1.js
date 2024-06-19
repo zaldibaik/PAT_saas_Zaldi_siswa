@@ -6,7 +6,7 @@ class Fitur1 extends Component {
     return (
       <div className="container">
         <div className="row pt-5">
-          <div className="col">
+          <div className="col-md-6">
             <div className="h1 text-green-800 hover:text-green-500">
               Islamic Boarding School
               <br />
