@@ -141,6 +141,7 @@ class Fitur3 extends Component {
                         Workshop tentang keamanan jaringan yang diadakan untuk siswa kelas XI dan XII, memberikan pengetahuan tentang perlindungan data dan infrastruktur IT.
                       </p>
                     </div>
+                    
                   </a>
                 </div>
               </div>
