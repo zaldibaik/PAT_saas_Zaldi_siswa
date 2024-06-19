@@ -13,7 +13,7 @@ class Fitur3 extends Component {
           Kegiatan sekolah
           <hr className="my-6 border lg:my-8" />
         </div>
-        <div className=" card bg-dark shadow white:bg-gray-900 p-4 ">
+        <div className="card bg-dark shadow white:bg-gray-900 p-4">
           <div className="row">
             <div className="col order-5">
               <div className="row">
@@ -23,7 +23,7 @@ class Fitur3 extends Component {
                     className="flex flex-col items-center rounded-lg md:flex-row md:max-w-xl"
                   >
                     <img
-                      className="object-cover w-full rounded-t-lg md:h-auto md:w-48 md:rounded-none md:rounded-s-lg"
+                      className="animated-image object-cover w-full rounded-t-lg md:h-auto md:w-48 md:rounded-none md:rounded-s-lg"
                       src={gambar}
                       alt="gambar"
                     />
@@ -46,7 +46,7 @@ class Fitur3 extends Component {
                     className="flex flex-col items-center rounded-lg md:flex-row md:max-w-xl"
                   >
                     <img
-                      className="object-cover w-full rounded-t-lg h-96 md:h-auto md:w-48 md:rounded-none md:rounded-s-lg"
+                      className="animated-image object-cover w-full rounded-t-lg h-96 md:h-auto md:w-48 md:rounded-none md:rounded-s-lg"
                       src={gambar}
                       alt="gambar"
                     />
@@ -69,7 +69,7 @@ class Fitur3 extends Component {
                     className="flex flex-col items-center rounded-lg md:flex-row md:max-w-xl"
                   >
                     <img
-                      className="object-cover w-full rounded-t-lg h-96 md:h-auto md:w-48 md:rounded-none md:rounded-s-lg"
+                      className="animated-image object-cover w-full rounded-t-lg h-96 md:h-auto md:w-48 md:rounded-none md:rounded-s-lg"
                       src={gambar}
                       alt="gambar"
                     />
@@ -95,7 +95,7 @@ class Fitur3 extends Component {
                     className="flex flex-col items-center rounded-lg md:flex-row md:max-w-xl"
                   >
                     <img
-                      className="object-cover w-full rounded-t-lg h-96 md:h-auto md:w-48 md:rounded-none md:rounded-s-lg"
+                      className="animated-image object-cover w-full rounded-t-lg h-96 md:h-auto md:w-48 md:rounded-none md:rounded-s-lg"
                       src={gambar}
                       alt="gambar"
                     />
@@ -118,7 +118,7 @@ class Fitur3 extends Component {
                     className="flex flex-col items-center rounded-lg md:flex-row md:max-w-xl"
                   >
                     <img
-                      className="object-cover w-full rounded-t-lg h-96 md:h-auto md:w-48 md:rounded-none md:rounded-s-lg"
+                      className="animated-image object-cover w-full rounded-t-lg h-96 md:h-auto md:w-48 md:rounded-none md:rounded-s-lg"
                       src={gambar}
                       alt="gambar"
                     />
@@ -141,7 +141,7 @@ class Fitur3 extends Component {
                     className="flex flex-col items-center rounded-lg md:flex-row md:max-w-xl"
                   >
                     <img
-                      className="object-cover w-full rounded-t-lg h-96 md:h-auto md:w-48 md:rounded-none md:rounded-s-lg"
+                      className="animated-image object-cover w-full rounded-t-lg h-96 md:h-auto md:w-48 md:rounded-none md:rounded-s-lg"
                       src={gambar}
                       alt="gambar"
                     />
@@ -160,7 +160,7 @@ class Fitur3 extends Component {
               <br />
             </div>
             <div className="col order-5">
-              <img className="h-auto w-100" src={poster} alt="Hero" />
+              <img className="h-auto w-100 animated-poster" src={poster} alt="Hero" />
             </div>
           </div>
         </div>

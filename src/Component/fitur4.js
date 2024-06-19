@@ -51,7 +51,6 @@ class Fitur3 extends Component {
               </div>
             </div>
 
-            {/* Add more slides as needed */}
             <div className="flex justify-center items-center h-full">
               <div className="max-w-2xl lg:max-w-4xl">
                 <figure className="mt-10">

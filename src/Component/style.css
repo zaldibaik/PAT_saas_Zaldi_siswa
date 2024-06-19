@@ -84,3 +84,17 @@
   transform: scale(1);
 }
 
+@keyframes moveRight {
+    0% {
+        transform: translateY(-10px);
+    }
+    100% {
+        transform: translateY(10px);
+    }
+}
+
+.animated-image {
+    animation: moveRight 2s infinite alternate ease-in-out;
+
+    
+}
