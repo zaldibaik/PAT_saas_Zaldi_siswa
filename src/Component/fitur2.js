@@ -16,16 +16,16 @@ class Fasilitas extends Component {
           <div className="col text-center">
             <div className="card-container shadow">
               <a href="#">
-                <img className="rounded-t-lg" src={GedungAsrama} alt="" />
+                <img className="rounded-t-lg" src={GedungAsrama} alt="Gedung Asrama" />
               </a>
               <div className="p-5">
                 <a href="#">
                   <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
-                    Gedung asrama
+                    Gedung Asrama
                   </h5>
                 </a>
                 <p className="mb-3 font-normal text-gray-700 dark:text-gray-400">
-                  Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.
+                  Gedung asrama dilengkapi dengan fasilitas modern untuk kenyamanan para siswa, termasuk kamar yang luas, area belajar, dan fasilitas rekreasi.
                 </p>
                 <a
                   href="#"
@@ -54,16 +54,16 @@ class Fasilitas extends Component {
           <div className="col text-center">
             <div className="card-container shadow">
               <a href="#">
-                <img className="rounded-t-lg" src={MasjidDanAula} alt="" />
+                <img className="rounded-t-lg" src={MasjidDanAula} alt="Masjid dan Aula" />
               </a>
               <div className="p-5">
                 <a href="#">
                   <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
-                    Masjid dan aula
+                    Masjid dan Aula
                   </h5>
                 </a>
                 <p className="mb-3 font-normal text-gray-700 dark:text-gray-400">
-                  Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.
+                  Masjid dan aula sekolah menyediakan tempat yang tenang dan nyaman untuk beribadah serta mengadakan acara dan kegiatan sekolah.
                 </p>
                 <a
                   href="#"
@@ -92,7 +92,7 @@ class Fasilitas extends Component {
           <div className="col text-center">
             <div className="card-container shadow">
               <a href="#">
-                <img className="rounded-t-lg" src={Lapangan} alt="" />
+                <img className="rounded-t-lg" src={Lapangan} alt="Lapangan" />
               </a>
               <div className="p-5">
                 <a href="#">
@@ -101,7 +101,7 @@ class Fasilitas extends Component {
                   </h5>
                 </a>
                 <p className="mb-3 font-normal text-gray-700 dark:text-gray-400">
-                  Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.
+                  Lapangan sekolah yang luas dan hijau, ideal untuk berbagai aktivitas olahraga dan kegiatan luar ruangan lainnya.
                 </p>
                 <a
                   href="#"
@@ -130,16 +130,16 @@ class Fasilitas extends Component {
           <div className="col text-center">
             <div className="card-container shadow">
               <a href="#">
-                <img className="rounded-t-lg" src={RunagKelasDanLeb} alt="" />
+                <img className="rounded-t-lg" src={RunagKelasDanLeb} alt="Ruangan Kelas dan Lab" />
               </a>
               <div className="p-5">
                 <a href="#">
                   <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
-                    Ruangan Kelas dan Leb
+                    Ruangan Kelas dan Lab
                   </h5>
                 </a>
                 <p className="mb-3 font-normal text-gray-700 dark:text-gray-400">
-                  Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.
+                  Ruangan kelas dan lab dilengkapi dengan fasilitas modern untuk mendukung proses belajar mengajar yang interaktif dan efektif.
                 </p>
                 <a
                   href="#"
