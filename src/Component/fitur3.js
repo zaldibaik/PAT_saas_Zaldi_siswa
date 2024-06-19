@@ -10,7 +10,7 @@ class Fitur3 extends Component {
     return (
       <div className="container">
         <div className="h1">
-          Kegiatan sekolah
+          <div>Kegiatan Sekolah</div>
           <hr className="my-6 border lg:my-8" />
         </div>
         <div className="card bg-dark shadow white:bg-gray-900 p-4">
@@ -23,14 +23,12 @@ class Fitur3 extends Component {
                     className="flex flex-col items-center rounded-lg md:flex-row md:max-w-xl"
                   >
                     <img
-                      className="animated-image object-cover w-full rounded-t-lg md:h-auto md:w-48 md:rounded-none md:rounded-s-lg"
+                      className="object-cover w-full rounded-t-lg md:h-auto md:w-48 md:rounded-none md:rounded-s-lg"
                       src={gambar}
                       alt="gambar"
                     />
                     <div className="flex flex-col justify-between p-4 leading-normal text-white">
-                      <h5 className="mb-2 text-2xl font-bold tracking-tight">
-                        Noteworthy technology acquisitions 2021
-                      </h5>
+                      <h1 text="Noteworthy technology acquisitions 2021" />
                       <p className="mb-3 font-normal">
                         Here are the biggest enterprise technology acquisitions
                         of 2021 so far, in reverse chronological order.
@@ -46,14 +44,12 @@ class Fitur3 extends Component {
                     className="flex flex-col items-center rounded-lg md:flex-row md:max-w-xl"
                   >
                     <img
-                      className="animated-image object-cover w-full rounded-t-lg h-96 md:h-auto md:w-48 md:rounded-none md:rounded-s-lg"
+                      className="object-cover w-full rounded-t-lg h-96 md:h-auto md:w-48 md:rounded-none md:rounded-s-lg"
                       src={gambar}
                       alt="gambar"
                     />
                     <div className="flex flex-col justify-between p-4 leading-normal text-white">
-                      <h5 className="mb-2 text-2xl font-bold tracking-tight">
-                        Noteworthy technology acquisitions 2021
-                      </h5>
+                      <h1 text="Noteworthy technology acquisitions 2021" />
                       <p className="mb-3 font-normal">
                         Here are the biggest enterprise technology acquisitions
                         of 2021 so far, in reverse chronological order.
@@ -69,14 +65,12 @@ class Fitur3 extends Component {
                     className="flex flex-col items-center rounded-lg md:flex-row md:max-w-xl"
                   >
                     <img
-                      className="animated-image object-cover w-full rounded-t-lg h-96 md:h-auto md:w-48 md:rounded-none md:rounded-s-lg"
+                      className="object-cover w-full rounded-t-lg h-96 md:h-auto md:w-48 md:rounded-none md:rounded-s-lg"
                       src={gambar}
                       alt="gambar"
                     />
                     <div className="flex flex-col justify-between p-4 leading-normal text-white">
-                      <h5 className="mb-2 text-2xl font-bold tracking-tight">
-                        Noteworthy technology acquisitions 2021
-                      </h5>
+                      <h1 text="Noteworthy technology acquisitions 2021" />
                       <p className="mb-3 font-normal">
                         Here are the biggest enterprise technology acquisitions
                         of 2021 so far, in reverse chronological order.
@@ -95,14 +89,12 @@ class Fitur3 extends Component {
                     className="flex flex-col items-center rounded-lg md:flex-row md:max-w-xl"
                   >
                     <img
-                      className="animated-image object-cover w-full rounded-t-lg h-96 md:h-auto md:w-48 md:rounded-none md:rounded-s-lg"
+                      className="object-cover w-full rounded-t-lg h-96 md:h-auto md:w-48 md:rounded-none md:rounded-s-lg"
                       src={gambar}
                       alt="gambar"
                     />
                     <div className="flex flex-col justify-between p-4 leading-normal text-white">
-                      <h5 className="mb-2 text-2xl font-bold tracking-tight">
-                        Noteworthy technology acquisitions 2021
-                      </h5>
+                      <h1 text="Noteworthy technology acquisitions 2021" />
                       <p className="mb-3 font-normal">
                         Here are the biggest enterprise technology acquisitions
                         of 2021 so far, in reverse chronological order.
@@ -118,14 +110,12 @@ class Fitur3 extends Component {
                     className="flex flex-col items-center rounded-lg md:flex-row md:max-w-xl"
                   >
                     <img
-                      className="animated-image object-cover w-full rounded-t-lg h-96 md:h-auto md:w-48 md:rounded-none md:rounded-s-lg"
+                      className="object-cover w-full rounded-t-lg h-96 md:h-auto md:w-48 md:rounded-none md:rounded-s-lg"
                       src={gambar}
                       alt="gambar"
                     />
                     <div className="flex flex-col justify-between p-4 leading-normal text-white">
-                      <h5 className="mb-2 text-2xl font-bold tracking-tight">
-                        Noteworthy technology acquisitions 2021
-                      </h5>
+                      <h1 text="Noteworthy technology acquisitions 2021" />
                       <p className="mb-3 font-normal">
                         Here are the biggest enterprise technology acquisitions
                         of 2021 so far, in reverse chronological order.
@@ -141,14 +131,12 @@ class Fitur3 extends Component {
                     className="flex flex-col items-center rounded-lg md:flex-row md:max-w-xl"
                   >
                     <img
-                      className="animated-image object-cover w-full rounded-t-lg h-96 md:h-auto md:w-48 md:rounded-none md:rounded-s-lg"
+                      className="object-cover w-full rounded-t-lg h-96 md:h-auto md:w-48 md:rounded-none md:rounded-s-lg"
                       src={gambar}
                       alt="gambar"
                     />
                     <div className="flex flex-col justify-between p-4 leading-normal text-white">
-                      <h5 className="mb-2 text-2xl font-bold tracking-tight">
-                        Noteworthy technology acquisitions 2021
-                      </h5>
+                      <h1 text="Noteworthy technology acquisitions 2021" />
                       <p className="mb-3 font-normal">
                         Here are the biggest enterprise technology acquisitions
                         of 2021 so far, in reverse chronological order.
@@ -160,7 +148,7 @@ class Fitur3 extends Component {
               <br />
             </div>
             <div className="col order-5">
-              <img className="h-auto w-100 animated-poster" src={poster} alt="Hero" />
+              <img className="h-auto w-100" src={poster} alt="Hero" />
             </div>
           </div>
         </div>
