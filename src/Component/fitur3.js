@@ -8,7 +8,7 @@ import gambar3 from "./assets/Khatmil.jpg";
 import gambar4 from "./assets/KegianaAoT.jpg";
 import gambar5 from "./assets/Fikry.jpg";
 import gambar6 from "./assets/NetSe.jpg";
-import './style.css';
+import "./style.css";
 
 class Fitur3 extends Component {
   render() {
@@ -35,7 +35,9 @@ class Fitur3 extends Component {
                     <div className="flex flex-col justify-between p-4 leading-normal text-white">
                       <p className="mb-3 font-normal h6">
                         <div className="h4">Pemilu 2024</div>
-                        Kegiatan pemilihan umum siswa diadakan setiap tahun untuk mengajarkan nilai-nilai demokrasi dan partisipasi aktif dalam masyarakat sekolah.
+                        Kegiatan pemilihan umum siswa diadakan setiap tahun
+                        untuk mengajarkan nilai-nilai demokrasi dan partisipasi
+                        aktif dalam masyarakat sekolah.
                       </p>
                     </div>
                   </a>
@@ -54,8 +56,12 @@ class Fitur3 extends Component {
                     />
                     <div className="flex flex-col justify-between p-4 leading-normal text-white">
                       <p className="mb-3 font-normal h6">
-                        <div className="h4">Workshop Internet Of Things Kelas XI</div>
-                        Workshop ini memperkenalkan konsep dan aplikasi Internet of Things (IoT) kepada siswa kelas XI, membantu mereka memahami teknologi yang sedang berkembang ini.
+                        <div className="h4">
+                          Workshop Internet Of Things Kelas XI
+                        </div>
+                        Workshop ini memperkenalkan konsep dan aplikasi Internet
+                        of Things (IoT) kepada siswa kelas XI, membantu mereka
+                        memahami teknologi yang sedang berkembang ini.
                       </p>
                     </div>
                   </a>
@@ -74,8 +80,12 @@ class Fitur3 extends Component {
                     />
                     <div className="flex flex-col justify-between p-4 leading-normal text-white">
                       <p className="mb-3 font-normal h6">
-                        <div className="h4">Khatmil Qur'an di Bulan Ramadhan</div>
-                        Kegiatan Khatmil Qur'an diadakan setiap bulan Ramadhan untuk mempererat kebersamaan dan meningkatkan spiritualitas siswa.
+                        <div className="h4">
+                          Khatmil Qur'an di Bulan Ramadhan
+                        </div>
+                        Kegiatan Khatmil Qur'an diadakan setiap bulan Ramadhan
+                        untuk mempererat kebersamaan dan meningkatkan
+                        spiritualitas siswa.
                       </p>
                     </div>
                   </a>
@@ -97,8 +107,12 @@ class Fitur3 extends Component {
                     />
                     <div className="flex flex-col justify-between p-4 leading-normal text-white">
                       <p className="mb-3 font-normal h6">
-                        <div className="h4">Workshop Internet Of Things Kelas XII</div>
-                        Workshop lanjutan untuk siswa kelas XII yang mendalami lebih jauh teknologi IoT, melibatkan proyek praktis dan presentasi.
+                        <div className="h4">
+                          Workshop Internet Of Things Kelas XII
+                        </div>
+                        Workshop lanjutan untuk siswa kelas XII yang mendalami
+                        lebih jauh teknologi IoT, melibatkan proyek praktis dan
+                        presentasi.
                       </p>
                     </div>
                   </a>
@@ -118,7 +132,9 @@ class Fitur3 extends Component {
                     <div className="flex flex-col justify-between p-4 leading-normal text-white">
                       <p className="mb-3 font-normal h6">
                         <div className="h4">PPDB TP 2024-2025</div>
-                        Penerimaan Peserta Didik Baru untuk tahun ajaran 2024-2025, memberikan informasi lengkap tentang prosedur pendaftaran dan seleksi.
+                        Penerimaan Peserta Didik Baru untuk tahun ajaran
+                        2024-2025, memberikan informasi lengkap tentang prosedur
+                        pendaftaran dan seleksi.
                       </p>
                     </div>
                   </a>
@@ -138,19 +154,20 @@ class Fitur3 extends Component {
                     <div className="flex flex-col justify-between p-4 leading-normal text-white">
                       <p className="mb-3 font-normal h6">
                         <div className="h4">Workshop Network Security</div>
-                        Workshop tentang keamanan jaringan yang diadakan untuk siswa kelas XI dan XII, memberikan pengetahuan tentang perlindungan data dan infrastruktur IT.
+                        Workshop tentang keamanan jaringan yang diadakan untuk
+                        siswa kelas XI dan XII, memberikan pengetahuan tentang
+                        perlindungan data dan infrastruktur IT.
                       </p>
                     </div>
-                    
                   </a>
                 </div>
               </div>
               <br />
-            </div>
-            <div className="col order-5">
-              <img className="h-auto w-100" src={poster} alt="Hero" />
-            </div>
+            </div>          <div className="col-md-4 order-5">
+            <img className="h-auto w-100" src={poster} alt="Hero" />
           </div>
+          </div>{" "}
+
         </div>
       </div>
     );
